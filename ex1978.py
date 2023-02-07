@@ -1,4 +1,4 @@
-N = int(input())
+n = int(input())
 numbers = map(int, input().split())
 sosu = 0
 for num in numbers:
